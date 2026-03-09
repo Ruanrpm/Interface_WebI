@@ -1,0 +1,15 @@
+#nome{
+    text-align: center;
+    font-size: 60px;
+}
+
+#numero{
+    color:cornflowerblue;
+}
+.paragrafo-cabecalho{
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
